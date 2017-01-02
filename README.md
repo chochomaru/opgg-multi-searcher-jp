@@ -1,0 +1,1 @@
+# opgg-multi-searcher-jp
